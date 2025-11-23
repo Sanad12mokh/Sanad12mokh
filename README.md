@@ -1,6 +1,4 @@
-## Hi there 👋
-
-<!--# 👋 Hi, I'm Sanad Abu Mokh
+# 👋 Hi, I'm Sanad Abu Mokh
 
 ### 💻 Software Developer | Cyber Security Enthusiast
 
@@ -9,7 +7,7 @@ I focus on writing clean, efficient, and secure code while learning and experime
 
 ---
 
-## 🛠️ What I Do
+## 🛠 What I Do
 
 - Full-stack development  
 - Android applications (Native Java)  
@@ -54,7 +52,6 @@ I focus on writing clean, efficient, and secure code while learning and experime
 
 ## 📫 Contact
 
-Email:  
-📧 Sanadabomokh10@gmail.com
+📧 Email: Sanadabomokh10@gmail.com
 
 ---
