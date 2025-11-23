@@ -1,16 +1,60 @@
 ## Hi there 👋
 
-<!--
-**Sanad12mokh/Sanad12mokh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!--# 👋 Hi, I'm Sanad Abu Mokh
 
-Here are some ideas to get you started:
+### 💻 Software Developer | Cyber Security Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build software solutions, develop automation tools, and enjoy creating full-stack, mobile, and backend systems.  
+I focus on writing clean, efficient, and secure code while learning and experimenting with new technologies.
+
+---
+
+## 🛠️ What I Do
+
+- Full-stack development  
+- Android applications (Native Java)  
+- Backend APIs and client–server systems  
+- Automation & bots  
+- Cyber security fundamentals (networking, scanning, analysis)  
+
+---
+
+## 💡 Programming Languages & Technologies
+
+### Languages
+- Java  
+- C#  
+- Python  
+- JavaScript  
+- SQL  
+
+### Frontend
+- HTML  
+- CSS  
+- JavaScript  
+- React  
+
+### Backend
+- Node.js  
+- ASP.NET  
+- Web API  
+
+### Databases
+- SQL Server  
+- MongoDB  
+
+### Tools
+- Git & GitHub  
+- Linux basics  
+- Docker  
+- VS Code, Visual Studio  
+- Android Studio  
+
+---
+
+## 📫 Contact
+
+Email:  
+📧 Sanadabomokh10@gmail.com
+
+---
